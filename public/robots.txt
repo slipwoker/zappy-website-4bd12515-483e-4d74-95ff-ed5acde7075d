@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://toy-shop-4bd12515.zappy5.app/sitemap.xml

@@ -1,0 +1,82 @@
+# Toy Shop — Generative Engine Optimization Map
+
+> A קמעונאות צעצועים business.
+
+---
+
+## Pages
+
+### Home
+https://toy-shop-4bd12515.zappy5.app
+
+### About
+https://toy-shop-4bd12515.zappy5.app/about
+
+### Products
+https://toy-shop-4bd12515.zappy5.app/products
+המוצרים שלנו - Toy Shop
+
+### Contact
+https://toy-shop-4bd12515.zappy5.app/contact
+
+### Cart
+https://toy-shop-4bd12515.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://toy-shop-4bd12515.zappy5.app/checkout
+תשלום
+
+### Login
+https://toy-shop-4bd12515.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://toy-shop-4bd12515.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://toy-shop-4bd12515.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://toy-shop-4bd12515.zappy5.app/product/:slug
+פרטי המוצר - Toy Shop
+
+### Category
+https://toy-shop-4bd12515.zappy5.app/category/:slug
+מוצרים - Toy Shop
+
+## Legal & Policy
+
+### Privacy Policy
+https://toy-shop-4bd12515.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://toy-shop-4bd12515.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://toy-shop-4bd12515.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Toy Shop
+Toy Shop is a business in the קמעונאות צעצועים industry.
+
+## Target Audience
+ילדים מגיל 4 ומעלה
+
+## Industry
+קמעונאות צעצועים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://toy-shop-4bd12515.zappy5.app/sitemap.xml
+- **Robots.txt**: https://toy-shop-4bd12515.zappy5.app/robots.txt
