@@ -509,6 +509,8 @@ window.onload = function() {
 ;
 
 ;
+
+;
 /* ==ZAPPY E-COMMERCE JS START== */
 // E-commerce functionality
 (function() {
@@ -7387,7 +7389,7 @@ async function loadRelatedProducts(currentProduct, t) {
 
       var wid = '4bd12515-483e-4d74-95ff-ed5acde7075d';
 
-      var apiBase = (window.ZAPPY_API_BASE || 'https://qaapi.zappy5.com').replace(/\/$/,'');
+      var apiBase = (window.ZAPPY_API_BASE || 'http://localhost:5001').replace(/\/$/,'');
       apiBase = apiBase + '/api/email/contact-form';
 
       fetch(apiBase, {
